@@ -1,0 +1,21 @@
+﻿  SkinDetect.cpp
+i:\ai프로그래밍_강의자료ppt\목요일\skindetect\skindetect\skindetect.cpp(31): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(455): note: 'getche' 선언을 참조하십시오.
+i:\ai프로그래밍_강의자료ppt\목요일\skindetect\skindetect\skindetect.cpp(95): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+i:\ai프로그래밍_강의자료ppt\목요일\skindetect\skindetect\skindetect.cpp(100): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+i:\ai프로그래밍_강의자료ppt\목요일\skindetect\skindetect\skindetect.cpp(84): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+i:\ai프로그래밍_강의자료ppt\목요일\skindetect\skindetect\skindetect.cpp(94): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+i:\ai프로그래밍_강의자료ppt\목요일\skindetect\skindetect\skindetect.cpp(99): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+i:\ai프로그래밍_강의자료ppt\목요일\skindetect\skindetect\skindetect.cpp(172): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+i:\ai프로그래밍_강의자료ppt\목요일\skindetect\skindetect\skindetect.cpp(177): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+i:\ai프로그래밍_강의자료ppt\목요일\skindetect\skindetect\skindetect.cpp(161): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+i:\ai프로그래밍_강의자료ppt\목요일\skindetect\skindetect\skindetect.cpp(171): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+i:\ai프로그래밍_강의자료ppt\목요일\skindetect\skindetect\skindetect.cpp(176): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+  SkinDetect.vcxproj -> I:\AI프로그래밍_강의자료PPT\목요일\SkinDetect\Debug\SkinDetect.exe
+  SkinDetect.vcxproj -> I:\AI프로그래밍_강의자료PPT\목요일\SkinDetect\Debug\SkinDetect.pdb (Full PDB)

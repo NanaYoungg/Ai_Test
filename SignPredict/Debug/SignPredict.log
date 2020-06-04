@@ -1,0 +1,13 @@
+﻿  SignPredict.cpp
+c:\users\user\desktop\signpredict\signpredict.cpp(32): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(129) : 'getche' 선언을 참조하십시오.
+c:\users\user\desktop\signpredict\signpredict.cpp(86): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+c:\users\user\desktop\signpredict\signpredict.cpp(96): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+c:\users\user\desktop\signpredict\signpredict.cpp(101): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+c:\users\user\desktop\signpredict\signpredict.cpp(158): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+c:\users\user\desktop\signpredict\signpredict.cpp(181): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  SignPredict.vcxproj -> C:\Users\user\Desktop\SignPredict\Debug\SignPredict.exe
